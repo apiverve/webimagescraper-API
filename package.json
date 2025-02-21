@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/webimagescraper",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "Web Image Scraper is a simple tool for scraping images from a website. It returns the URLs of the images found on the website.",
   "main": "index.js",
   "scripts": {
